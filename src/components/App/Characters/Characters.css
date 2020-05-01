@@ -1,8 +1,8 @@
-.List {
+.Characters {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 
-  li {
+li {
     width: 25vw;
     height: 30rem;
     padding: 1rem 0;
